@@ -3,6 +3,7 @@ body {
 	background-color: #ccf2ff;
 	font-family: arial;
 	color: #004080;
+	position: absolute;
 }
 
 img {
@@ -10,7 +11,8 @@ img {
 	margin-left: auto;
 	margin-right: right;
 	position: absolute;
-	right: 45px;
+	right: -230px;
+	top:10px;
 }
 
 h1 {
@@ -20,7 +22,7 @@ h1 {
 	padding: 10px;
 	font-family: arial;
 	position: absolute;
-	top: 8px;
+	top: -80px;
 	background-color:#004d99;
 	color:white;
 }
@@ -31,7 +33,7 @@ footer {
 	height: 138px;
 	padding:10px;
 	position: absolute
-	top: 420px;
+	top: 350px;
 	color:#004080;
 	font-size: 15px;
 }
