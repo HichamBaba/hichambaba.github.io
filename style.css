@@ -1,0 +1,45 @@
+
+body {
+	background-color: #ccf2ff;
+	font-family: arial;
+	color: #004080;
+	position: absolute;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: right;
+	position: absolute;
+	right: -230px;
+	top:10px;
+}
+
+h1 {
+	text-align:center;
+	border: 3px;
+	height: 30px;
+	padding: 10px;
+	font-family: arial;
+	position: absolute;
+	top: -80px;
+	background-color:#004d99;
+	color:white;
+}
+
+footer {
+	text-align:center;
+	border: 3px solid white;
+	height: 138px;
+	padding:10px;
+	position: absolute
+	top: 350px;
+	color:#004080;
+	font-size: 15px;
+}
+
+html {
+	margin: 80px;
+	height: 300px;
+	margin-bottom:80px;
+}
